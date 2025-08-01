@@ -7,6 +7,6 @@
 - ⚡ Fun fact: ...
 
 <!---
-AdityaG212/AdityaG212 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aditya612 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
